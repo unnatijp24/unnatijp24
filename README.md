@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unnatijp24
-- 👀 I’m interested in workin with real life scenarios.
+- 👀 I’m interested in working with real life scenarios.
 - 👩‍💻 I’m currently learning various science in Computers!
 <!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :  -->
